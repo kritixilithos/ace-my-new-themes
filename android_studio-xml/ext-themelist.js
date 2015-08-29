@@ -2,8 +2,6 @@ ace.define("ace/ext/themelist",["require","exports","module","ace/lib/fixoldbrow
 "use strict";
 require("ace/lib/fixoldbrowsers");
 
-//notice the first index of the themeData array- it's Android Studio
-
 var themeData = [
     ["Android Studio" ],
     ["Chrome"         ],
